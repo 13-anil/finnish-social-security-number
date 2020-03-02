@@ -1,0 +1,27 @@
+/* 
+    Created on : Jun 17, 2019
+    Author     : liisa auer
+*/
+
+main {
+    margin-left: 2em;
+    margin-top: 2em;
+    font-family: Verdana;
+}
+
+h1 {
+    font-size: 1.3em;
+}
+
+h2 {
+    font-size: 1.1em;
+}
+
+label {
+    display: inline-block;
+    width: 11em;
+}
+
+#error {
+    color: red;
+}
